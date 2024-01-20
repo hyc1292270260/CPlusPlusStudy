@@ -1,0 +1,10 @@
+*.obj
+*.log
+*.tlog
+*.pdb
+*.vcxproj
+*.user
+Debug
+Release
+*.filters
+*.sln
